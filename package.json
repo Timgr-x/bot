@@ -14,7 +14,7 @@
     "discord.js-commando": "^0.10.0",
     "eco": "^1.1.0-rc-3",
     "enmap": "^5.2.3",
-    "express": "^4.17.1",
+    "express": "^4.17.3",
     "jimp": "^0.8.5",
     "math-expression-evaluator": "^1.2.17",
     "moment-duration-format": "^2.3.2",
